@@ -1,0 +1,75 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/* サイドメニュー用のスタイル */
+.sidelist {
+  float: right;
+  /* border: solid #d8a23e; */
+  margin: 0px 10px 20px 0px;
+}
+
+.leftside {
+  float: right;
+  display: inline-block;
+  border: solid #d8a23e;
+  margin: 0px 0px 0px 0px;
+  zindex: 1000;
+}
+.Doughfnc_id {
+  float: left;
+  display: inline-block;
+}
+.topping_list {
+  display: inline-block;
+  /* border: solid #d8a23e; */
+}
+
+.ing_detail {
+  /* display: inline-block; */
+  border: solid #3e9ad8;
+  text-align: left;
+  padding: 10px 0px 0px 20px;
+}
+
+.ing_detail_sum {
+  display: inline-block;
+}
+
+.opt_menu {
+  padding: 0px 0px 0px 0px;
+  text-align: left;
+  /* float: left; */
+}
+
+.buttomside {
+  margin: 10px 10px 20px 0px;
+  padding: 0 80% 0px 0px;
+  text-align: left;
+  border: solid #d8a23e;
+}
+
+.review_canvas {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 20px;
+  /* border: solid #d8a23e; */
+}
+
+/* ------------ */
+
+.test_border {
+  display: inline-block;
+  border: solid #006eff;
+  margin: 0px 10px 20px 0px;
+  padding: 0px 10px 20px 0px;
+}
+
+/* for test css */
+.test_border_1 {
+  border: solid #d8a23e;
+}
+
+.not_moving {
+  /* width: "50"; */
+}
